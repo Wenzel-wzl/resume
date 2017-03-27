@@ -1,5 +1,5 @@
 # resume
-* 林文仔个人简历
+林文仔个人简历
 ## 基本资料
 * 姓    名： 林文仔	
 * 性    别： 男	
@@ -14,7 +14,7 @@
 * 在广州市盛祺计算机信息技术有限公司实习3个月，参与公司内部管理系统编写，负
     责部分功能的开发文档。数据库文档、后台及部分前端代码编写。
 ## 专业技能
-专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
+ 专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
 
 * 掌握的JavaScript类库：jQuery、Prototype
 * 掌握项目管理和协同工具的使用：VSS、Git
